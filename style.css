@@ -1,0 +1,24 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h1{
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading button{
+    float: right;
+    font-size: 18px;
+    border: 1px solid white;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#play{
+    font-size: 18px;
+}
